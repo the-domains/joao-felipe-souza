@@ -1,0 +1,23 @@
+name: Joao Felipe Souza
+favicon: null
+layout_spectrum: 0.6724719966296107
+typography_spectrum: 0.9102070403750986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.14088505133986473
+  lightness: 0.35561632458120584
+  saturation: 0.43065135390497744
+  rhythmicContrast: 0.7462521498091519
+purpose: []
